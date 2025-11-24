@@ -1,5 +1,5 @@
 # Aim:
-To study the operation and performance of a semi-automatic stencil printer used in SMT assembly and to evaluate its effectiveness in achieving accurate and consistent solder paste deposition.
+To study the operation and performance of a semi-automatic stencil printer used in SMT assembly and to evaluate its effectiveness in achieving accurate and consistent solder paste deposition
 
 # Apparatus required:
 
